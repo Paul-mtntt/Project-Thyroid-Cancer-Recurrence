@@ -3,4 +3,5 @@ The data used in this project comes from the [UCI Machine Learning Repository](h
 
 The dataset contains clinical and pathological features related to differentiated thyroid cancer and whether the patient experienced recurrence.
 
-The raw data is not included in this repository. You can download it manually or use the automated download script in `src/preprocessing.py`.
+The raw data is not included in this repository. You can download it manually and rename it Thyroid_Diff.csv.
+
